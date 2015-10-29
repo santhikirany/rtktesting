@@ -1,0 +1,4 @@
+C:\apps\my-app\platforms\wp8\obj\Debug\App.g.cs
+C:\apps\my-app\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+C:\apps\my-app\platforms\wp8\obj\Debug\MainPage.g.cs
+C:\apps\my-app\platforms\wp8\obj\Debug\com.phonegap.helloworld.g.resources
